@@ -31,7 +31,7 @@ The input layer is all instances, and number of nodes in this layer is the numbe
 
 **Hidden Layer:**
 
-This is a simple model that only contains one hidden layer, and the number of nodes in the hidden layer can be modified as input parameter, in my precessing, I used 20 nodes.
+This is a simple model that only contains one hidden layer, and the number of nodes in the hidden layer can be modified as input parameter, in my processing, I used 20 nodes.
 
 **Output Layer:**
 
