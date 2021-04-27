@@ -19,6 +19,7 @@ https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
 
 The first dataset is CIFAR from PyTorch, which contains 60000 image datas in 10 classes:  
 https://pytorch.org/tutorials/beginner/basics/data_tutorial.html  
+The dataset for CIFAR is too large, so I cannot update to github file, but the python code can directly download and load the dataset
 
 The second dataset is Ablone dataset from UCI Machine Learning Repository, which contains 4177 instances in 3 classes:  
 https://archive.ics.uci.edu/ml/datasets/Abalone  
